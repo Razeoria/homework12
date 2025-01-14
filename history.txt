@@ -1,0 +1,20 @@
+   99  git status
+  100  git commit -m "add readme.md"
+  101  git log
+  102  ls -l
+  103  explorer.exe .
+  104  git status
+  105  git add .gitignore
+  106  git commit -m "update -gitignore"
+  107  git log
+  108  git push -u origin feature
+  109  git commit --amend -m "update .gitignore amend"
+  110  git status
+  111  git branch
+  112  git checkout main
+  113  git merge feature
+  114  git pushlog
+  115  git log
+  116  git push
+  117  history
+  118  history | tail -20 >> history.txt
